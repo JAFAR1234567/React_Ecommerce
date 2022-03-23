@@ -1,0 +1,13 @@
+.cart{
+    background-color: rgb(28, 69, 97);
+    color: #fff;
+    margin-top: 40px;
+    padding: 20px;
+    text-transform: capitalize;
+    border-radius: 5px;
+}
+.cart h1{
+    font-size: 30px;
+    font-weight: bold;
+    border-bottom: 1px solid rgb(218, 201, 201);
+}
